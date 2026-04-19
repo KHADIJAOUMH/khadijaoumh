@@ -85,11 +85,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khadijaoumh&style=flat&color=blue" alt="Profile views" />
-</div>
