@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
--🎓 Software Engineering Student 🎓
--🖥️ Backend Developer & DevOps Enthusiast 🖥️
--🔍 Algorithm Explorer & Problem Solver 🔍
--☁️ Cloud & Distributed Systems Learner ☁️
--🤝 Team Player with a Love for Collaboration 🤝
-🌟 Driven by Curiosity & Always Learning 🌟
+- 🎓 Software Engineering Student 🎓
+- 🖥️ Backend Developer & DevOps Enthusiast 🖥️
+- 🔍 Algorithm Explorer & Problem Solver 🔍
+- ☁️ Cloud & Distributed Systems Learner ☁️
+- 🤝 Team Player with a Love for Collaboration 🤝
+- 🌟 Driven by Curiosity & Always Learning 🌟
 
 ---
 
